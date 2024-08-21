@@ -9,6 +9,7 @@ chmod +x dria.sh
 
 ./dria.sh
 
+Buat wallet metamask(disarankan new wallet) copy privat key
 Login atau Buat akun di https://platform.openai.com/
 ambil/copas openai key pada bagian profil/menu akun
 Join Discord : https://discord.gg/dria
